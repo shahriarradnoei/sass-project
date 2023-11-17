@@ -1,0 +1,153 @@
+@import "variables";
+.bg-blue{
+    background-color: $dark-blue;
+}
+.font{
+    font-size: $font-size-sm;
+}
+.font-icon-sm{
+    font-size: $font-size-sm;
+    padding-top: $p-top;
+}
+.font-icon-md{
+    font-size: $font;
+    padding-top: $p-top;
+}
+.font-adders{
+    font-size: $font-size;
+}
+.font-adders-sm{
+    font-size: $font-size-sm;
+}
+.font-size-color-h1{
+    color: $orange;
+    font-size: $font-size-h1;
+}
+.font-size-color-h1-sm{
+    color: $orange;
+    font-size: $font-size-h1-sm;
+}
+.font-color-icon-headset{
+    color: $orange;
+    font-size: $font-size-headset;
+}
+.color{
+    color: $orange;
+}
+.font-size-xxl-section1{
+    font-size: $font-size-h1-xxl-section1;
+}
+.font-size-md-sm-section1{
+    font-size: $font-size-h1-md-sm-section1;
+}
+.font-size-section1{
+    font-size: $font-size-h1-section1;
+}
+.font-size-xxl-p{
+    font-size: $font-size-xxl-p;
+}
+.font-size-xl-p{
+    font-size: $font-size-xl-p;
+}
+.font-size-lg-p{
+    font-size: $font-size-lg-p;
+}
+.font-size-md-sm-p{
+    font-size: $font-size-md-sm-p;
+}
+.bg{
+    background-color: $orange;
+}
+.bg-section{
+    background-color: $gray;
+}
+// 
+// 
+.text-learn-more{
+    font-size: 17px;
+    border-left: 3px solid #ffa734;
+}
+.text-size{
+    font-size: 19px;
+}
+.width-height-carousel{
+    // width: 325px;
+    width: 330px;
+    height: 460px;
+}
+.margin-bottom-carousel{
+    margin-bottom: 100px;
+}
+.width-height-carousel-woman{
+    width: 330px;
+    height: 460px;
+}
+.border--bottom{
+    border-bottom: 3px solid #ffa734;
+}
+.border-left-xxl{
+    font-size: 16px;
+    border-left: 3px solid #ffa734;
+}
+.border-left-lg-xl{
+    font-size: 15px;
+    border-left: 3px solid #ffa734;
+}
+.border-left-md-sm{
+    font-size: 13px;
+    border-left: 3px solid #ffa734;
+}
+.position-icon{
+    position: absolute; 
+    top: 16px;
+    right: 22px;
+}
+.width-height-div{
+    position: relative;
+    width: 70px; 
+    height: 70px; 
+}
+.font-p-xxl{
+    font-size: 18px;
+}
+.font-p-lg{
+    font-size: 17px;
+}
+.font-p-sm{
+    font-size: 15px;
+}
+.margin-bottom-carousel2{
+    margin-bottom: 98px;
+}
+.width{
+    width: 15px;
+}
+.border-bottom-h1{
+    border-bottom: 4px solid #ffa734;
+}
+.border-bottom-button{
+    border: 0px solid #ffa734;
+}
+.width-125{
+    width: 120px;
+}
+.border-top-navbar{
+    border-top: 2px solid #ffa734;
+}
+.font-size-color-h1-phone{
+    font-size: 11px; 
+    color: #ffa734;
+}
+%button{
+    border: none;
+}
+.button{
+    &-color {
+        @extend %button;
+        background-color: #ffa734;
+    }
+    &-hover:hover{
+        @extend %button;
+        background-color: #c28536;
+    }
+}

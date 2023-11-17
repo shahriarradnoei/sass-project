@@ -1,0 +1,144 @@
+.bg-blue {
+  background-color: #113163; }
+
+.font {
+  font-size: 12px; }
+
+.font-icon-sm {
+  font-size: 12px;
+  padding-top: 10px; }
+
+.font-icon-md {
+  font-size: 15px;
+  padding-top: 10px; }
+
+.font-adders {
+  font-size: 13px; }
+
+.font-adders-sm {
+  font-size: 12px; }
+
+.font-size-color-h1 {
+  color: #ffa734;
+  font-size: 13.5px; }
+
+.font-size-color-h1-sm {
+  color: #ffa734;
+  font-size: 11px; }
+
+.font-color-icon-headset {
+  color: #ffa734;
+  font-size: 16px; }
+
+.color {
+  color: #ffa734; }
+
+.font-size-xxl-section1 {
+  font-size: 41px; }
+
+.font-size-md-sm-section1 {
+  font-size: 30px; }
+
+.font-size-section1 {
+  font-size: 25px; }
+
+.font-size-xxl-p {
+  font-size: 20px; }
+
+.font-size-xl-p {
+  font-size: 20px; }
+
+.font-size-lg-p {
+  font-size: 17px; }
+
+.font-size-md-sm-p {
+  font-size: 12px; }
+
+.bg {
+  background-color: #ffa734; }
+
+.bg-section {
+  background-color: #f7f7f8; }
+
+.text-learn-more {
+  font-size: 17px;
+  border-left: 3px solid #ffa734; }
+
+.text-size {
+  font-size: 19px; }
+
+.width-height-carousel {
+  width: 330px;
+  height: 460px; }
+
+.margin-bottom-carousel {
+  margin-bottom: 100px; }
+
+.width-height-carousel-woman {
+  width: 330px;
+  height: 460px; }
+
+.border--bottom {
+  border-bottom: 3px solid #ffa734; }
+
+.border-left-xxl {
+  font-size: 16px;
+  border-left: 3px solid #ffa734; }
+
+.border-left-lg-xl {
+  font-size: 15px;
+  border-left: 3px solid #ffa734; }
+
+.border-left-md-sm {
+  font-size: 13px;
+  border-left: 3px solid #ffa734; }
+
+.position-icon {
+  position: absolute;
+  top: 16px;
+  right: 22px; }
+
+.width-height-div {
+  position: relative;
+  width: 70px;
+  height: 70px; }
+
+.font-p-xxl {
+  font-size: 18px; }
+
+.font-p-lg {
+  font-size: 17px; }
+
+.font-p-sm {
+  font-size: 15px; }
+
+.margin-bottom-carousel2 {
+  margin-bottom: 98px; }
+
+.width {
+  width: 15px; }
+
+.border-bottom-h1 {
+  border-bottom: 4px solid #ffa734; }
+
+.border-bottom-button {
+  border: 0px solid #ffa734; }
+
+.width-125 {
+  width: 120px; }
+
+.border-top-navbar {
+  border-top: 2px solid #ffa734; }
+
+.font-size-color-h1-phone {
+  font-size: 11px;
+  color: #ffa734; }
+
+.button-color, .button-hover:hover {
+  border: none; }
+
+.button-color {
+  background-color: #ffa734; }
+
+.button-hover:hover {
+  background-color: #c28536; }
